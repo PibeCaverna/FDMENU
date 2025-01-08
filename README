@@ -30,3 +30,5 @@ Patches
 grid
 gridnav
 border
+center
+noinput
